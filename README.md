@@ -1,0 +1,1 @@
+# DevExpress WinForms Rich Editor
